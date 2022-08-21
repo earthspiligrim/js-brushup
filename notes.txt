@@ -1,0 +1,7 @@
+
+1. Practice.js
+Topics: Http calls, outerFunction-innerFunction
+2. closures.js
+Topics: Closures, Lexical Scoping
+
+
